@@ -1,4 +1,4 @@
-
+[![Lint Code Base](https://github.com/oliverandres15/Calculadora-de-diferencias/actions/workflows/super-linter.yml/badge.svg)](https://github.com/oliverandres15/Calculadora-de-diferencias/actions/workflows/super-linter.yml)
 
 
 Funcionamiento del gendiff.js comparando archivos.
